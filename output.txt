@@ -1,13 +1,7236 @@
-Employees who have worked for 7 consecutive days:
-[]
+Task 1: Employees who have worked more than 1 hour and less than 10 hours:
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
 
-Employees who have less than 10 hours between shifts but greater than 1 hour:
-[]
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:39
+Formatted Hours Worked: 4.65
 
-Employees who have worked for more than 14 hours in a single shift:
-[
-  {
-    "Name": "DeXgadiXXE REdarMe, ChrisMiaW S",
-    "Position": "Active"
-  }
-]
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 5:54
+Formatted Hours Worked: 5.9
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:21
+Formatted Hours Worked: 4.35
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 3:54
+Formatted Hours Worked: 3.9
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:59
+Formatted Hours Worked: 4.983333333333333
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:59
+Formatted Hours Worked: 4.983333333333333
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:08
+Formatted Hours Worked: 4.133333333333334
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 4:55
+Formatted Hours Worked: 4.916666666666667
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 5:06
+Formatted Hours Worked: 5.1
+
+Employee Name: REsaXiaWE, XAis
+File Number: 000065
+Hours Worked: 6:52
+Formatted Hours Worked: 6.866666666666667
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 4:53
+Formatted Hours Worked: 4.883333333333333
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 2:10
+Formatted Hours Worked: 2.1666666666666665
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 3:07
+Formatted Hours Worked: 3.1166666666666667
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 5:34
+Formatted Hours Worked: 5.566666666666666
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 6:09
+Formatted Hours Worked: 6.15
+
+Employee Name: Sparks, KeWWeMh
+File Number: 000101
+Hours Worked: 1:08
+Formatted Hours Worked: 1.1333333333333333
+
+Employee Name: GaXCes, EXias XEpez
+File Number: 000127
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: GaXCes, EXias XEpez
+File Number: 000127
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: GaXCes, EXias XEpez
+File Number: 000127
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: GaXCes, EXias XEpez
+File Number: 000127
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: GaXCes, EXias XEpez
+File Number: 000127
+Hours Worked: 5:06
+Formatted Hours Worked: 5.1
+
+Employee Name: GaXCes, EXias XEpez
+File Number: 000127
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: GaXCes, EXias XEpez
+File Number: 000127
+Hours Worked: 2:45
+Formatted Hours Worked: 2.75
+
+Employee Name: GaXCes, EXias XEpez
+File Number: 000127
+Hours Worked: 3:31
+Formatted Hours Worked: 3.5166666666666666
+
+Employee Name: GaXCes, EXias XEpez
+File Number: 000127
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: GaXCes, EXias XEpez
+File Number: 000127
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: GaXCes, EXias XEpez
+File Number: 000127
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 3:16
+Formatted Hours Worked: 3.2666666666666666
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 3:57
+Formatted Hours Worked: 3.95
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 3:43
+Formatted Hours Worked: 3.716666666666667
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 9:03
+Formatted Hours Worked: 9.05
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 1:01
+Formatted Hours Worked: 1.0166666666666666
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 3:28
+Formatted Hours Worked: 3.466666666666667
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 3:59
+Formatted Hours Worked: 3.9833333333333334
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: CaMaXaWE, CeghaW
+File Number: 000153
+Hours Worked: 2:35
+Formatted Hours Worked: 2.5833333333333335
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 3:27
+Formatted Hours Worked: 3.45
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 2:43
+Formatted Hours Worked: 2.716666666666667
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 3:39
+Formatted Hours Worked: 3.65
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 6:39
+Formatted Hours Worked: 6.65
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 3:06
+Formatted Hours Worked: 3.1
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 6:54
+Formatted Hours Worked: 6.9
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 4:48
+Formatted Hours Worked: 4.8
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 2:37
+Formatted Hours Worked: 2.6166666666666667
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 3:22
+Formatted Hours Worked: 3.3666666666666667
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 4:48
+Formatted Hours Worked: 4.8
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: Arias, FeXipe
+File Number: 000170
+Hours Worked: 3:18
+Formatted Hours Worked: 3.3
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 4:17
+Formatted Hours Worked: 4.283333333333333
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 3:35
+Formatted Hours Worked: 3.5833333333333335
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 3:39
+Formatted Hours Worked: 3.65
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 2:07
+Formatted Hours Worked: 2.1166666666666667
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 2:38
+Formatted Hours Worked: 2.6333333333333333
+
+Employee Name: Merrazas, GriaW
+File Number: 000180
+Hours Worked: 5:34
+Formatted Hours Worked: 5.566666666666666
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 3:48
+Formatted Hours Worked: 3.8
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 4:34
+Formatted Hours Worked: 4.566666666666666
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 5:29
+Formatted Hours Worked: 5.483333333333333
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 2:48
+Formatted Hours Worked: 2.8
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 4:34
+Formatted Hours Worked: 4.566666666666666
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 5:04
+Formatted Hours Worked: 5.066666666666666
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 4:24
+Formatted Hours Worked: 4.4
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 4:27
+Formatted Hours Worked: 4.45
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 5:15
+Formatted Hours Worked: 5.25
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: GarWes, JAsMiW
+File Number: 000181
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 3:58
+Formatted Hours Worked: 3.966666666666667
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 2:13
+Formatted Hours Worked: 2.216666666666667
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 6:00
+Formatted Hours Worked: 6
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 3:46
+Formatted Hours Worked: 3.7666666666666666
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: FeXix, XeEWeX
+File Number: 000183
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 3:23
+Formatted Hours Worked: 3.3833333333333333
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 3:43
+Formatted Hours Worked: 3.716666666666667
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 3:54
+Formatted Hours Worked: 3.9
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 4:28
+Formatted Hours Worked: 4.466666666666667
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 3:41
+Formatted Hours Worked: 3.6833333333333336
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 4:56
+Formatted Hours Worked: 4.933333333333334
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 5:16
+Formatted Hours Worked: 5.266666666666667
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 4:57
+Formatted Hours Worked: 4.95
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 5:56
+Formatted Hours Worked: 5.933333333333334
+
+Employee Name: HerCEsiXXE, PedrE
+File Number: 000185
+Hours Worked: 9:39
+Formatted Hours Worked: 9.65
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 3:35
+Formatted Hours Worked: 3.5833333333333335
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 2:24
+Formatted Hours Worked: 2.4
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 3:35
+Formatted Hours Worked: 3.5833333333333335
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 3:35
+Formatted Hours Worked: 3.5833333333333335
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 3:35
+Formatted Hours Worked: 3.5833333333333335
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 3:16
+Formatted Hours Worked: 3.2666666666666666
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 1:46
+Formatted Hours Worked: 1.7666666666666666
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 5:30
+Formatted Hours Worked: 5.5
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 4:48
+Formatted Hours Worked: 4.8
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 3:35
+Formatted Hours Worked: 3.5833333333333335
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 3:35
+Formatted Hours Worked: 3.5833333333333335
+
+Employee Name: Xee, XaCar
+File Number: 000200
+Hours Worked: 3:25
+Formatted Hours Worked: 3.4166666666666665
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:57
+Formatted Hours Worked: 4.95
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:21
+Formatted Hours Worked: 4.35
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:28
+Formatted Hours Worked: 4.466666666666667
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:55
+Formatted Hours Worked: 4.916666666666667
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:49
+Formatted Hours Worked: 4.816666666666666
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 3:40
+Formatted Hours Worked: 3.6666666666666665
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:27
+Formatted Hours Worked: 4.45
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:13
+Formatted Hours Worked: 4.216666666666667
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:44
+Formatted Hours Worked: 4.733333333333333
+
+Employee Name: GaWks, GryaW
+File Number: 000226
+Hours Worked: 4:45
+Formatted Hours Worked: 4.75
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 1:50
+Formatted Hours Worked: 1.8333333333333335
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 4:28
+Formatted Hours Worked: 4.466666666666667
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 2:17
+Formatted Hours Worked: 2.283333333333333
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 4:25
+Formatted Hours Worked: 4.416666666666667
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 2:48
+Formatted Hours Worked: 2.8
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 1:13
+Formatted Hours Worked: 1.2166666666666668
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 7:27
+Formatted Hours Worked: 7.45
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 3:38
+Formatted Hours Worked: 3.6333333333333333
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 2:24
+Formatted Hours Worked: 2.4
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: MAake, CasiaWE
+File Number: 000228
+Hours Worked: 3:02
+Formatted Hours Worked: 3.033333333333333
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 6:30
+Formatted Hours Worked: 6.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 6:30
+Formatted Hours Worked: 6.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 5:30
+Formatted Hours Worked: 5.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 1:45
+Formatted Hours Worked: 1.75
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 5:15
+Formatted Hours Worked: 5.25
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: SiWgh, MarAWpreeM
+File Number: 000246
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 4:09
+Formatted Hours Worked: 4.15
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 3:53
+Formatted Hours Worked: 3.8833333333333333
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 2:05
+Formatted Hours Worked: 2.0833333333333335
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 3:48
+Formatted Hours Worked: 3.8
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 4:21
+Formatted Hours Worked: 4.35
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 6:00
+Formatted Hours Worked: 6
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 3:31
+Formatted Hours Worked: 3.5166666666666666
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 4:38
+Formatted Hours Worked: 4.633333333333333
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 2:14
+Formatted Hours Worked: 2.2333333333333334
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 2:52
+Formatted Hours Worked: 2.8666666666666667
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 3:43
+Formatted Hours Worked: 3.716666666666667
+
+Employee Name: DiWh, DaA
+File Number: 000268
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 4:11
+Formatted Hours Worked: 4.183333333333334
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 1:23
+Formatted Hours Worked: 1.3833333333333333
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 1:28
+Formatted Hours Worked: 1.4666666666666668
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 8:00
+Formatted Hours Worked: 8
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 3:44
+Formatted Hours Worked: 3.7333333333333334
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 3:48
+Formatted Hours Worked: 3.8
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 3:40
+Formatted Hours Worked: 3.6666666666666665
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 1:54
+Formatted Hours Worked: 1.9
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 1:53
+Formatted Hours Worked: 1.8833333333333333
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: ArEsMigAi, AXexaWder
+File Number: 000306
+Hours Worked: 3:01
+Formatted Hours Worked: 3.0166666666666666
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 2:52
+Formatted Hours Worked: 2.8666666666666667
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 1:55
+Formatted Hours Worked: 1.9166666666666665
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 4:10
+Formatted Hours Worked: 4.166666666666667
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 2:00
+Formatted Hours Worked: 2
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 3:05
+Formatted Hours Worked: 3.0833333333333335
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 2:57
+Formatted Hours Worked: 2.95
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 3:01
+Formatted Hours Worked: 3.0166666666666666
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 2:05
+Formatted Hours Worked: 2.0833333333333335
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 6:34
+Formatted Hours Worked: 6.566666666666666
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 3:24
+Formatted Hours Worked: 3.4
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 2:00
+Formatted Hours Worked: 2
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 2:05
+Formatted Hours Worked: 2.0833333333333335
+
+Employee Name: De Xa Cerda, IgWaciE
+File Number: 000318
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 1:51
+Formatted Hours Worked: 1.85
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 3:07
+Formatted Hours Worked: 3.1166666666666667
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 3:40
+Formatted Hours Worked: 3.6666666666666665
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 4:54
+Formatted Hours Worked: 4.9
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 4:06
+Formatted Hours Worked: 4.1
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 2:23
+Formatted Hours Worked: 2.3833333333333333
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 2:33
+Formatted Hours Worked: 2.55
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 3:08
+Formatted Hours Worked: 3.1333333333333333
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 3:59
+Formatted Hours Worked: 3.9833333333333334
+
+Employee Name: REdrigAez, PedrE
+File Number: 000336
+Hours Worked: 4:58
+Formatted Hours Worked: 4.966666666666667
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 2:45
+Formatted Hours Worked: 2.75
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 5:30
+Formatted Hours Worked: 5.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 2:00
+Formatted Hours Worked: 2
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 3:20
+Formatted Hours Worked: 3.3333333333333335
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: MraW, WiXXiaC Ha
+File Number: 000345
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 3:52
+Formatted Hours Worked: 3.8666666666666667
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 3:46
+Formatted Hours Worked: 3.7666666666666666
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 3:33
+Formatted Hours Worked: 3.55
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 4:34
+Formatted Hours Worked: 4.566666666666666
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 5:10
+Formatted Hours Worked: 5.166666666666667
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 4:24
+Formatted Hours Worked: 4.4
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 5:46
+Formatted Hours Worked: 5.766666666666667
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 4:38
+Formatted Hours Worked: 4.633333333333333
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 5:14
+Formatted Hours Worked: 5.233333333333333
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 4:55
+Formatted Hours Worked: 4.916666666666667
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 8:00
+Formatted Hours Worked: 8
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 5:03
+Formatted Hours Worked: 5.05
+
+Employee Name: MAcker, CichaeX
+File Number: 000360
+Hours Worked: 5:02
+Formatted Hours Worked: 5.033333333333333
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 2:42
+Formatted Hours Worked: 2.7
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 2:55
+Formatted Hours Worked: 2.9166666666666665
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 3:32
+Formatted Hours Worked: 3.533333333333333
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 3:58
+Formatted Hours Worked: 3.966666666666667
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 2:16
+Formatted Hours Worked: 2.2666666666666666
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 8:00
+Formatted Hours Worked: 8
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 4:31
+Formatted Hours Worked: 4.516666666666667
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 1:40
+Formatted Hours Worked: 1.6666666666666665
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 4:28
+Formatted Hours Worked: 4.466666666666667
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 3:03
+Formatted Hours Worked: 3.05
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 4:36
+Formatted Hours Worked: 4.6
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 2:11
+Formatted Hours Worked: 2.183333333333333
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 3:56
+Formatted Hours Worked: 3.9333333333333336
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 4:11
+Formatted Hours Worked: 4.183333333333334
+
+Employee Name: CaMXEck, CEhaCCed
+File Number: 000362
+Hours Worked: 6:31
+Formatted Hours Worked: 6.516666666666667
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 4:11
+Formatted Hours Worked: 4.183333333333334
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 3:33
+Formatted Hours Worked: 3.55
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 8:00
+Formatted Hours Worked: 8
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 8:00
+Formatted Hours Worked: 8
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 8:00
+Formatted Hours Worked: 8
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 4:48
+Formatted Hours Worked: 4.8
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 4:48
+Formatted Hours Worked: 4.8
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 4:28
+Formatted Hours Worked: 4.466666666666667
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: MaXeGi, ACirCasEAd
+File Number: 000364
+Hours Worked: 4:59
+Formatted Hours Worked: 4.983333333333333
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 5:01
+Formatted Hours Worked: 5.016666666666667
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 2:22
+Formatted Hours Worked: 2.3666666666666667
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 6:00
+Formatted Hours Worked: 6
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 4:02
+Formatted Hours Worked: 4.033333333333333
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 4:44
+Formatted Hours Worked: 4.733333333333333
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 4:39
+Formatted Hours Worked: 4.65
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 4:02
+Formatted Hours Worked: 4.033333333333333
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 1:20
+Formatted Hours Worked: 1.3333333333333333
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 4:45
+Formatted Hours Worked: 4.75
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 2:29
+Formatted Hours Worked: 2.4833333333333334
+
+Employee Name: PayaW, DaWieX
+File Number: 000368
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:43
+Formatted Hours Worked: 4.716666666666667
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 3:41
+Formatted Hours Worked: 3.6833333333333336
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:49
+Formatted Hours Worked: 4.816666666666666
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:42
+Formatted Hours Worked: 4.7
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:49
+Formatted Hours Worked: 4.816666666666666
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 3:20
+Formatted Hours Worked: 3.3333333333333335
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:17
+Formatted Hours Worked: 4.283333333333333
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:47
+Formatted Hours Worked: 4.783333333333333
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 3:25
+Formatted Hours Worked: 3.4166666666666665
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:31
+Formatted Hours Worked: 4.516666666666667
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:13
+Formatted Hours Worked: 4.216666666666667
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 4:54
+Formatted Hours Worked: 4.9
+
+Employee Name: ErMiz, AGigaiX
+File Number: 000372
+Hours Worked: 2:21
+Formatted Hours Worked: 2.35
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 1:51
+Formatted Hours Worked: 1.85
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 3:25
+Formatted Hours Worked: 3.4166666666666665
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 4:09
+Formatted Hours Worked: 4.15
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 3:53
+Formatted Hours Worked: 3.8833333333333333
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 3:56
+Formatted Hours Worked: 3.9333333333333336
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 2:46
+Formatted Hours Worked: 2.7666666666666666
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 4:49
+Formatted Hours Worked: 4.816666666666666
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 3:43
+Formatted Hours Worked: 3.716666666666667
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 4:46
+Formatted Hours Worked: 4.766666666666667
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 3:29
+Formatted Hours Worked: 3.4833333333333334
+
+Employee Name: ErEpeza, JEvaW
+File Number: 000382
+Hours Worked: 1:30
+Formatted Hours Worked: 1.5
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 4:13
+Formatted Hours Worked: 4.216666666666667
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 4:28
+Formatted Hours Worked: 4.466666666666667
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 3:10
+Formatted Hours Worked: 3.1666666666666665
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 4:09
+Formatted Hours Worked: 4.15
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 1:55
+Formatted Hours Worked: 1.9166666666666665
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 7:12
+Formatted Hours Worked: 7.2
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 3:32
+Formatted Hours Worked: 3.533333333333333
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 4:46
+Formatted Hours Worked: 4.766666666666667
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 3:52
+Formatted Hours Worked: 3.8666666666666667
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 1:58
+Formatted Hours Worked: 1.9666666666666668
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 3:05
+Formatted Hours Worked: 3.0833333333333335
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 4:42
+Formatted Hours Worked: 4.7
+
+Employee Name: VasqAez, AXfredE
+File Number: 000391
+Hours Worked: 7:10
+Formatted Hours Worked: 7.166666666666667
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 3:05
+Formatted Hours Worked: 3.0833333333333335
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 4:36
+Formatted Hours Worked: 4.6
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 3:38
+Formatted Hours Worked: 3.6333333333333333
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 2:52
+Formatted Hours Worked: 2.8666666666666667
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 2:19
+Formatted Hours Worked: 2.3166666666666664
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 4:09
+Formatted Hours Worked: 4.15
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: SavaWg, JEhW
+File Number: 000393
+Hours Worked: 2:45
+Formatted Hours Worked: 2.75
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 3:57
+Formatted Hours Worked: 3.95
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 3:39
+Formatted Hours Worked: 3.65
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 5:20
+Formatted Hours Worked: 5.333333333333333
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 4:41
+Formatted Hours Worked: 4.683333333333334
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 3:41
+Formatted Hours Worked: 3.6833333333333336
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 4:27
+Formatted Hours Worked: 4.45
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 3:28
+Formatted Hours Worked: 3.466666666666667
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 5:50
+Formatted Hours Worked: 5.833333333333333
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 8:00
+Formatted Hours Worked: 8
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 5:50
+Formatted Hours Worked: 5.833333333333333
+
+Employee Name: REdrigAez, XAis
+File Number: 000412
+Hours Worked: 8:27
+Formatted Hours Worked: 8.45
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 3:56
+Formatted Hours Worked: 3.9333333333333336
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 1:57
+Formatted Hours Worked: 1.95
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 3:38
+Formatted Hours Worked: 3.6333333333333333
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 3:14
+Formatted Hours Worked: 3.2333333333333334
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 3:57
+Formatted Hours Worked: 3.95
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 2:35
+Formatted Hours Worked: 2.5833333333333335
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 3:48
+Formatted Hours Worked: 3.8
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 3:08
+Formatted Hours Worked: 3.1333333333333333
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 3:44
+Formatted Hours Worked: 3.7333333333333334
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 3:23
+Formatted Hours Worked: 3.3833333333333333
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 3:17
+Formatted Hours Worked: 3.283333333333333
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 3:06
+Formatted Hours Worked: 3.1
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 4:02
+Formatted Hours Worked: 4.033333333333333
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 2:34
+Formatted Hours Worked: 2.5666666666666664
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 3:20
+Formatted Hours Worked: 3.3333333333333335
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 2:51
+Formatted Hours Worked: 2.85
+
+Employee Name: EasMCaW, CichaeX
+File Number: 000414
+Hours Worked: 2:12
+Formatted Hours Worked: 2.2
+
+Employee Name: SiWgh, CaWpreeM
+File Number: 000418
+Hours Worked: 5:00
+Formatted Hours Worked: 5
+
+Employee Name: SiWgh, CaWpreeM
+File Number: 000418
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: SiWgh, CaWpreeM
+File Number: 000418
+Hours Worked: 3:32
+Formatted Hours Worked: 3.533333333333333
+
+Employee Name: SiWgh, CaWpreeM
+File Number: 000418
+Hours Worked: 2:06
+Formatted Hours Worked: 2.1
+
+Employee Name: SiWgh, CaWpreeM
+File Number: 000418
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: SiWgh, CaWpreeM
+File Number: 000418
+Hours Worked: 3:54
+Formatted Hours Worked: 3.9
+
+Employee Name: SiWgh, CaWpreeM
+File Number: 000418
+Hours Worked: 4:45
+Formatted Hours Worked: 4.75
+
+Employee Name: SiWgh, CaWpreeM
+File Number: 000418
+Hours Worked: 3:22
+Formatted Hours Worked: 3.3666666666666667
+
+Employee Name: SiWgh, CaWpreeM
+File Number: 000418
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: SiWgh, CaWpreeM
+File Number: 000418
+Hours Worked: 1:57
+Formatted Hours Worked: 1.95
+
+Employee Name: RECerE, SergiE
+File Number: 000420
+Hours Worked: 4:17
+Formatted Hours Worked: 4.283333333333333
+
+Employee Name: RECerE, SergiE
+File Number: 000420
+Hours Worked: 1:07
+Formatted Hours Worked: 1.1166666666666667
+
+Employee Name: RECerE, SergiE
+File Number: 000420
+Hours Worked: 8:28
+Formatted Hours Worked: 8.466666666666667
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 3:05
+Formatted Hours Worked: 3.0833333333333335
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 2:05
+Formatted Hours Worked: 2.0833333333333335
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 3:59
+Formatted Hours Worked: 3.9833333333333334
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 5:47
+Formatted Hours Worked: 5.783333333333333
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 5:40
+Formatted Hours Worked: 5.666666666666667
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 6:35
+Formatted Hours Worked: 6.583333333333333
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 4:10
+Formatted Hours Worked: 4.166666666666667
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 3:58
+Formatted Hours Worked: 3.966666666666667
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 2:55
+Formatted Hours Worked: 2.9166666666666665
+
+Employee Name: SiWgh, JaspreeM
+File Number: 000424
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:27
+Formatted Hours Worked: 4.45
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 3:36
+Formatted Hours Worked: 3.6
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:54
+Formatted Hours Worked: 4.9
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:43
+Formatted Hours Worked: 4.716666666666667
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 3:06
+Formatted Hours Worked: 3.1
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:25
+Formatted Hours Worked: 4.416666666666667
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 1:33
+Formatted Hours Worked: 1.55
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 3:48
+Formatted Hours Worked: 3.8
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 2:53
+Formatted Hours Worked: 2.8833333333333333
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 4:31
+Formatted Hours Worked: 4.516666666666667
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 2:14
+Formatted Hours Worked: 2.2333333333333334
+
+Employee Name: SiWgXeMEW, REger
+File Number: 000426
+Hours Worked: 8:16
+Formatted Hours Worked: 8.266666666666667
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 4:21
+Formatted Hours Worked: 4.35
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 2:03
+Formatted Hours Worked: 2.05
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 3:20
+Formatted Hours Worked: 3.3333333333333335
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 4:58
+Formatted Hours Worked: 4.966666666666667
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 3:13
+Formatted Hours Worked: 3.216666666666667
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 6:02
+Formatted Hours Worked: 6.033333333333333
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 2:12
+Formatted Hours Worked: 2.2
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 4:17
+Formatted Hours Worked: 4.283333333333333
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 1:11
+Formatted Hours Worked: 1.1833333333333333
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 1:10
+Formatted Hours Worked: 1.1666666666666667
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 4:10
+Formatted Hours Worked: 4.166666666666667
+
+Employee Name: PaXaciE, JEWaMhaW
+File Number: 000434
+Hours Worked: 1:13
+Formatted Hours Worked: 1.2166666666666668
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 4:28
+Formatted Hours Worked: 4.466666666666667
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 1:49
+Formatted Hours Worked: 1.8166666666666667
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 4:39
+Formatted Hours Worked: 4.65
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 1:04
+Formatted Hours Worked: 1.0666666666666667
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 1:44
+Formatted Hours Worked: 1.7333333333333334
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 4:54
+Formatted Hours Worked: 4.9
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 1:16
+Formatted Hours Worked: 1.2666666666666666
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 2:55
+Formatted Hours Worked: 2.9166666666666665
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 3:44
+Formatted Hours Worked: 3.7333333333333334
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 3:20
+Formatted Hours Worked: 3.3333333333333335
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 3:59
+Formatted Hours Worked: 3.9833333333333334
+
+Employee Name: ErEzcE, SaAX
+File Number: 000442
+Hours Worked: 2:23
+Formatted Hours Worked: 2.3833333333333333
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 5:15
+Formatted Hours Worked: 5.25
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:06
+Formatted Hours Worked: 4.1
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 3:38
+Formatted Hours Worked: 3.6333333333333333
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:41
+Formatted Hours Worked: 4.683333333333334
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 5:31
+Formatted Hours Worked: 5.516666666666667
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 3:48
+Formatted Hours Worked: 3.8
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:31
+Formatted Hours Worked: 4.516666666666667
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:55
+Formatted Hours Worked: 4.916666666666667
+
+Employee Name: CercadE, SaAX
+File Number: 000446
+Hours Worked: 4:13
+Formatted Hours Worked: 4.216666666666667
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 1:20
+Formatted Hours Worked: 1.3333333333333333
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 4:09
+Formatted Hours Worked: 4.15
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 1:42
+Formatted Hours Worked: 1.7
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 2:53
+Formatted Hours Worked: 2.8833333333333333
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 6:00
+Formatted Hours Worked: 6
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 4:02
+Formatted Hours Worked: 4.033333333333333
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 5:19
+Formatted Hours Worked: 5.316666666666666
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 4:45
+Formatted Hours Worked: 4.75
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 9:52
+Formatted Hours Worked: 9.866666666666667
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 3:09
+Formatted Hours Worked: 3.15
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 3:06
+Formatted Hours Worked: 3.1
+
+Employee Name: CEreira Jr, JEse
+File Number: 000456
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 3:23
+Formatted Hours Worked: 3.3833333333333333
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:06
+Formatted Hours Worked: 4.1
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:38
+Formatted Hours Worked: 4.633333333333333
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:58
+Formatted Hours Worked: 4.966666666666667
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 2:19
+Formatted Hours Worked: 2.3166666666666664
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:45
+Formatted Hours Worked: 4.75
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 2:41
+Formatted Hours Worked: 2.6833333333333336
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:55
+Formatted Hours Worked: 4.916666666666667
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 3:19
+Formatted Hours Worked: 3.3166666666666664
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 1:31
+Formatted Hours Worked: 1.5166666666666666
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:57
+Formatted Hours Worked: 4.95
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 3:25
+Formatted Hours Worked: 3.4166666666666665
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:06
+Formatted Hours Worked: 4.1
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 3:40
+Formatted Hours Worked: 3.6666666666666665
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: AXvarez, Edgar
+File Number: 000457
+Hours Worked: 1:41
+Formatted Hours Worked: 1.6833333333333333
+
+Employee Name: PaAXE, KyXe
+File Number: 000460
+Hours Worked: 1:11
+Formatted Hours Worked: 1.1833333333333333
+
+Employee Name: PaAXE, KyXe
+File Number: 000460
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: PaAXE, KyXe
+File Number: 000460
+Hours Worked: 2:44
+Formatted Hours Worked: 2.7333333333333334
+
+Employee Name: PaAXE, KyXe
+File Number: 000460
+Hours Worked: 3:41
+Formatted Hours Worked: 3.6833333333333336
+
+Employee Name: PaAXE, KyXe
+File Number: 000460
+Hours Worked: 2:43
+Formatted Hours Worked: 2.716666666666667
+
+Employee Name: PaAXE, KyXe
+File Number: 000460
+Hours Worked: 3:52
+Formatted Hours Worked: 3.8666666666666667
+
+Employee Name: PaAXE, KyXe
+File Number: 000460
+Hours Worked: 6:01
+Formatted Hours Worked: 6.016666666666667
+
+Employee Name: PaAXE, KyXe
+File Number: 000460
+Hours Worked: 4:09
+Formatted Hours Worked: 4.15
+
+Employee Name: PaAXE, KyXe
+File Number: 000460
+Hours Worked: 2:58
+Formatted Hours Worked: 2.966666666666667
+
+Employee Name: PaAXE, KyXe
+File Number: 000460
+Hours Worked: 2:48
+Formatted Hours Worked: 2.8
+
+Employee Name: PaAXE, KyXe
+File Number: 000460
+Hours Worked: 1:27
+Formatted Hours Worked: 1.45
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 4:13
+Formatted Hours Worked: 4.216666666666667
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 5:24
+Formatted Hours Worked: 5.4
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 5:12
+Formatted Hours Worked: 5.2
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 4:02
+Formatted Hours Worked: 4.033333333333333
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 5:18
+Formatted Hours Worked: 5.3
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 4:55
+Formatted Hours Worked: 4.916666666666667
+
+Employee Name: XiWW, JAsMiW
+File Number: 000462
+Hours Worked: 4:43
+Formatted Hours Worked: 4.716666666666667
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:43
+Formatted Hours Worked: 4.716666666666667
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 3:42
+Formatted Hours Worked: 3.7
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:10
+Formatted Hours Worked: 4.166666666666667
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:26
+Formatted Hours Worked: 4.433333333333334
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 3:20
+Formatted Hours Worked: 3.3333333333333335
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:43
+Formatted Hours Worked: 4.716666666666667
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 5:09
+Formatted Hours Worked: 5.15
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:47
+Formatted Hours Worked: 4.783333333333333
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:54
+Formatted Hours Worked: 4.9
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 5:11
+Formatted Hours Worked: 5.183333333333334
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 4:46
+Formatted Hours Worked: 4.766666666666667
+
+Employee Name: CaXdEWadE, AXfEWsE
+File Number: 000463
+Hours Worked: 8:42
+Formatted Hours Worked: 8.7
+
+Employee Name: CeWdEza, Erik
+File Number: 000465
+Hours Worked: 3:48
+Formatted Hours Worked: 3.8
+
+Employee Name: CeWdEza, Erik
+File Number: 000465
+Hours Worked: 3:10
+Formatted Hours Worked: 3.1666666666666665
+
+Employee Name: CeWdEza, Erik
+File Number: 000465
+Hours Worked: 2:03
+Formatted Hours Worked: 2.05
+
+Employee Name: CeWdEza, Erik
+File Number: 000465
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: CeWdEza, Erik
+File Number: 000465
+Hours Worked: 2:23
+Formatted Hours Worked: 2.3833333333333333
+
+Employee Name: CeWdEza, Erik
+File Number: 000465
+Hours Worked: 1:14
+Formatted Hours Worked: 1.2333333333333334
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 2:36
+Formatted Hours Worked: 2.6
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 4:39
+Formatted Hours Worked: 4.65
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 5:00
+Formatted Hours Worked: 5
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 4:38
+Formatted Hours Worked: 4.633333333333333
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 5:36
+Formatted Hours Worked: 5.6
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 4:11
+Formatted Hours Worked: 4.183333333333334
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 2:55
+Formatted Hours Worked: 2.9166666666666665
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 1:10
+Formatted Hours Worked: 1.1666666666666667
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 4:25
+Formatted Hours Worked: 4.416666666666667
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 3:59
+Formatted Hours Worked: 3.9833333333333334
+
+Employee Name: PerkiWs, MarraWce
+File Number: 000469
+Hours Worked: 3:10
+Formatted Hours Worked: 3.1666666666666665
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:06
+Formatted Hours Worked: 4.1
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 3:58
+Formatted Hours Worked: 3.966666666666667
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:56
+Formatted Hours Worked: 4.933333333333334
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:26
+Formatted Hours Worked: 4.433333333333334
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:06
+Formatted Hours Worked: 4.1
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:17
+Formatted Hours Worked: 4.283333333333333
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:26
+Formatted Hours Worked: 4.433333333333334
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 5:19
+Formatted Hours Worked: 5.316666666666666
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:48
+Formatted Hours Worked: 4.8
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 2:03
+Formatted Hours Worked: 2.05
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:23
+Formatted Hours Worked: 4.383333333333334
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 1:15
+Formatted Hours Worked: 1.25
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:38
+Formatted Hours Worked: 4.633333333333333
+
+Employee Name: GAeWdia, JAaW CarXEs
+File Number: 000473
+Hours Worked: 4:07
+Formatted Hours Worked: 4.116666666666666
+
+Employee Name: ZaCEra, Edward
+File Number: 000477
+Hours Worked: 3:38
+Formatted Hours Worked: 3.6333333333333333
+
+Employee Name: ZaCEra, Edward
+File Number: 000477
+Hours Worked: 2:32
+Formatted Hours Worked: 2.533333333333333
+
+Employee Name: ZaCEra, Edward
+File Number: 000477
+Hours Worked: 4:31
+Formatted Hours Worked: 4.516666666666667
+
+Employee Name: ZaCEra, Edward
+File Number: 000477
+Hours Worked: 4:54
+Formatted Hours Worked: 4.9
+
+Employee Name: ZaCEra, Edward
+File Number: 000477
+Hours Worked: 2:46
+Formatted Hours Worked: 2.7666666666666666
+
+Employee Name: ZaCEra, Edward
+File Number: 000477
+Hours Worked: 3:10
+Formatted Hours Worked: 3.1666666666666665
+
+Employee Name: ZaCEra, Edward
+File Number: 000477
+Hours Worked: 2:03
+Formatted Hours Worked: 2.05
+
+Employee Name: ZaCEra, Edward
+File Number: 000477
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: ZaCEra, Edward
+File Number: 000477
+Hours Worked: 4:09
+Formatted Hours Worked: 4.15
+
+Employee Name: ZaCEra, Edward
+File Number: 000477
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: ZaCEra, Edward
+File Number: 000477
+Hours Worked: 1:43
+Formatted Hours Worked: 1.7166666666666668
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 3:07
+Formatted Hours Worked: 3.1166666666666667
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 3:23
+Formatted Hours Worked: 3.3833333333333333
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 3:12
+Formatted Hours Worked: 3.2
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 3:39
+Formatted Hours Worked: 3.65
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 3:53
+Formatted Hours Worked: 3.8833333333333333
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 3:33
+Formatted Hours Worked: 3.55
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 4:10
+Formatted Hours Worked: 4.166666666666667
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 2:04
+Formatted Hours Worked: 2.066666666666667
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 2:57
+Formatted Hours Worked: 2.95
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 5:03
+Formatted Hours Worked: 5.05
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 3:39
+Formatted Hours Worked: 3.65
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 4:27
+Formatted Hours Worked: 4.45
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 3:36
+Formatted Hours Worked: 3.6
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 3:36
+Formatted Hours Worked: 3.6
+
+Employee Name: ArevaXE, JEse
+File Number: 000491
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 3:58
+Formatted Hours Worked: 3.966666666666667
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:34
+Formatted Hours Worked: 4.566666666666666
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:07
+Formatted Hours Worked: 4.116666666666666
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:39
+Formatted Hours Worked: 4.65
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:27
+Formatted Hours Worked: 4.45
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 5:29
+Formatted Hours Worked: 5.483333333333333
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 5:19
+Formatted Hours Worked: 5.316666666666666
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:07
+Formatted Hours Worked: 4.116666666666666
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 5:00
+Formatted Hours Worked: 5
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 4:41
+Formatted Hours Worked: 4.683333333333334
+
+Employee Name: CErMes, DEAgXas Farid
+File Number: 000495
+Hours Worked: 5:18
+Formatted Hours Worked: 5.3
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 3:53
+Formatted Hours Worked: 3.8833333333333333
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 5:29
+Formatted Hours Worked: 5.483333333333333
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 3:53
+Formatted Hours Worked: 3.8833333333333333
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:23
+Formatted Hours Worked: 4.383333333333334
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:02
+Formatted Hours Worked: 4.033333333333333
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:48
+Formatted Hours Worked: 4.8
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:31
+Formatted Hours Worked: 4.516666666666667
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:48
+Formatted Hours Worked: 4.8
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:47
+Formatted Hours Worked: 4.783333333333333
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:34
+Formatted Hours Worked: 4.566666666666666
+
+Employee Name: CercadE, CrisMiaW
+File Number: 000496
+Hours Worked: 4:47
+Formatted Hours Worked: 4.783333333333333
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 3:22
+Formatted Hours Worked: 3.3666666666666667
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 3:52
+Formatted Hours Worked: 3.8666666666666667
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 4:13
+Formatted Hours Worked: 4.216666666666667
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 3:41
+Formatted Hours Worked: 3.6833333333333336
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 3:52
+Formatted Hours Worked: 3.8666666666666667
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 4:26
+Formatted Hours Worked: 4.433333333333334
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 3:40
+Formatted Hours Worked: 3.6666666666666665
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 3:33
+Formatted Hours Worked: 3.55
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 5:17
+Formatted Hours Worked: 5.283333333333333
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 4:57
+Formatted Hours Worked: 4.95
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 6:01
+Formatted Hours Worked: 6.016666666666667
+
+Employee Name: ZaCEra, CigAeX
+File Number: 000499
+Hours Worked: 9:42
+Formatted Hours Worked: 9.7
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 4:13
+Formatted Hours Worked: 4.216666666666667
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 4:13
+Formatted Hours Worked: 4.216666666666667
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 1:25
+Formatted Hours Worked: 1.4166666666666667
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 3:23
+Formatted Hours Worked: 3.3833333333333333
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 3:05
+Formatted Hours Worked: 3.0833333333333335
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 2:06
+Formatted Hours Worked: 2.1
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 3:54
+Formatted Hours Worked: 3.9
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 3:46
+Formatted Hours Worked: 3.7666666666666666
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 4:17
+Formatted Hours Worked: 4.283333333333333
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 3:23
+Formatted Hours Worked: 3.3833333333333333
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 3:56
+Formatted Hours Worked: 3.9333333333333336
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 3:44
+Formatted Hours Worked: 3.7333333333333334
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 3:12
+Formatted Hours Worked: 3.2
+
+Employee Name: Caxies, MerreXX
+File Number: 000500
+Hours Worked: 6:42
+Formatted Hours Worked: 6.7
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 4:10
+Formatted Hours Worked: 4.166666666666667
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 2:51
+Formatted Hours Worked: 2.85
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 3:40
+Formatted Hours Worked: 3.6666666666666665
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 4:25
+Formatted Hours Worked: 4.416666666666667
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 3:24
+Formatted Hours Worked: 3.4
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 6:02
+Formatted Hours Worked: 6.033333333333333
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 3:19
+Formatted Hours Worked: 3.3166666666666664
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 2:43
+Formatted Hours Worked: 2.716666666666667
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 3:43
+Formatted Hours Worked: 3.716666666666667
+
+Employee Name: CcRAWWeX, REWaXd Xee
+File Number: 000501
+Hours Worked: 1:36
+Formatted Hours Worked: 1.6
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 2:45
+Formatted Hours Worked: 2.75
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 5:30
+Formatted Hours Worked: 5.5
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 1:45
+Formatted Hours Worked: 1.75
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: CEMMa, Jessica
+File Number: 000503
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: REdrigAez, AXexis GAMierrez
+File Number: 000505
+Hours Worked: 3:40
+Formatted Hours Worked: 3.6666666666666665
+
+Employee Name: REdrigAez, AXexis GAMierrez
+File Number: 000505
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: REdrigAez, AXexis GAMierrez
+File Number: 000505
+Hours Worked: 3:42
+Formatted Hours Worked: 3.7
+
+Employee Name: REdrigAez, AXexis GAMierrez
+File Number: 000505
+Hours Worked: 3:21
+Formatted Hours Worked: 3.35
+
+Employee Name: REdrigAez, AXexis GAMierrez
+File Number: 000505
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: Rivera AXcaWMar, GrayaW
+File Number: 000507
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: Rivera AXcaWMar, GrayaW
+File Number: 000507
+Hours Worked: 4:43
+Formatted Hours Worked: 4.716666666666667
+
+Employee Name: Rivera AXcaWMar, GrayaW
+File Number: 000507
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: Rivera AXcaWMar, GrayaW
+File Number: 000507
+Hours Worked: 4:48
+Formatted Hours Worked: 4.8
+
+Employee Name: Rivera AXcaWMar, GrayaW
+File Number: 000507
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: Rivera AXcaWMar, GrayaW
+File Number: 000507
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: Rivera AXcaWMar, GrayaW
+File Number: 000507
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: Rivera AXcaWMar, GrayaW
+File Number: 000507
+Hours Worked: 4:25
+Formatted Hours Worked: 4.416666666666667
+
+Employee Name: Rivera AXcaWMar, GrayaW
+File Number: 000507
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: Rivera AXcaWMar, GrayaW
+File Number: 000507
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 3:34
+Formatted Hours Worked: 3.5666666666666664
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 3:54
+Formatted Hours Worked: 3.9
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 2:15
+Formatted Hours Worked: 2.25
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 2:19
+Formatted Hours Worked: 2.3166666666666664
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 2:17
+Formatted Hours Worked: 2.283333333333333
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 3:56
+Formatted Hours Worked: 3.9333333333333336
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 3:13
+Formatted Hours Worked: 3.216666666666667
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 4:39
+Formatted Hours Worked: 4.65
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 4:41
+Formatted Hours Worked: 4.683333333333334
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 4:49
+Formatted Hours Worked: 4.816666666666666
+
+Employee Name: EXivares, FeXCaW
+File Number: 000508
+Hours Worked: 4:27
+Formatted Hours Worked: 4.45
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 5:31
+Formatted Hours Worked: 5.516666666666667
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 4:17
+Formatted Hours Worked: 4.283333333333333
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 4:38
+Formatted Hours Worked: 4.633333333333333
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 4:17
+Formatted Hours Worked: 4.283333333333333
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 4:58
+Formatted Hours Worked: 4.966666666666667
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 4:26
+Formatted Hours Worked: 4.433333333333334
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 3:44
+Formatted Hours Worked: 3.7333333333333334
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 3:54
+Formatted Hours Worked: 3.9
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 4:34
+Formatted Hours Worked: 4.566666666666666
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 5:10
+Formatted Hours Worked: 5.166666666666667
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 2:29
+Formatted Hours Worked: 2.4833333333333334
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: ChaCErE, HEXger CarMiWez
+File Number: 000509
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 2:48
+Formatted Hours Worked: 2.8
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 2:41
+Formatted Hours Worked: 2.6833333333333336
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 3:42
+Formatted Hours Worked: 3.7
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 1:58
+Formatted Hours Worked: 1.9666666666666668
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 2:05
+Formatted Hours Worked: 2.0833333333333335
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 3:21
+Formatted Hours Worked: 3.35
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 1:32
+Formatted Hours Worked: 1.5333333333333332
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 4:13
+Formatted Hours Worked: 4.216666666666667
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 3:38
+Formatted Hours Worked: 3.6333333333333333
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 2:58
+Formatted Hours Worked: 2.966666666666667
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 2:15
+Formatted Hours Worked: 2.25
+
+Employee Name: WiXXiaCs, MyrreXX
+File Number: 000511
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: CaraGiXXa, AWMhEWy
+File Number: 000514
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: CaraGiXXa, AWMhEWy
+File Number: 000514
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: CaraGiXXa, AWMhEWy
+File Number: 000514
+Hours Worked: 1:16
+Formatted Hours Worked: 1.2666666666666666
+
+Employee Name: CaraGiXXa, AWMhEWy
+File Number: 000514
+Hours Worked: 4:31
+Formatted Hours Worked: 4.516666666666667
+
+Employee Name: CaraGiXXa, AWMhEWy
+File Number: 000514
+Hours Worked: 2:41
+Formatted Hours Worked: 2.6833333333333336
+
+Employee Name: CaraGiXXa, AWMhEWy
+File Number: 000514
+Hours Worked: 4:02
+Formatted Hours Worked: 4.033333333333333
+
+Employee Name: CaraGiXXa, AWMhEWy
+File Number: 000514
+Hours Worked: 4:02
+Formatted Hours Worked: 4.033333333333333
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 2:10
+Formatted Hours Worked: 2.1666666666666665
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 2:09
+Formatted Hours Worked: 2.15
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 2:29
+Formatted Hours Worked: 2.4833333333333334
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 4:42
+Formatted Hours Worked: 4.7
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 3:53
+Formatted Hours Worked: 3.8833333333333333
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 3:46
+Formatted Hours Worked: 3.7666666666666666
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 4:43
+Formatted Hours Worked: 4.716666666666667
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: GrACfieXd, CErWeXiAs
+File Number: 000515
+Hours Worked: 3:42
+Formatted Hours Worked: 3.7
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 4:34
+Formatted Hours Worked: 4.566666666666666
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 4:21
+Formatted Hours Worked: 4.35
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 4:31
+Formatted Hours Worked: 4.516666666666667
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 4:44
+Formatted Hours Worked: 4.733333333333333
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 4:28
+Formatted Hours Worked: 4.466666666666667
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: Perez, EdwiW JiCeWez
+File Number: 000517
+Hours Worked: 1:32
+Formatted Hours Worked: 1.5333333333333332
+
+Employee Name: ArrAMia, AXexis ArMArE
+File Number: 000518
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: ArrAMia, AXexis ArMArE
+File Number: 000518
+Hours Worked: 1:05
+Formatted Hours Worked: 1.0833333333333333
+
+Employee Name: ArrAMia, AXexis ArMArE
+File Number: 000518
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: ArrAMia, AXexis ArMArE
+File Number: 000518
+Hours Worked: 1:19
+Formatted Hours Worked: 1.3166666666666667
+
+Employee Name: ArrAMia, AXexis ArMArE
+File Number: 000518
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: ArrAMia, AXexis ArMArE
+File Number: 000518
+Hours Worked: 1:15
+Formatted Hours Worked: 1.25
+
+Employee Name: ArrAMia, AXexis ArMArE
+File Number: 000518
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: ArrAMia, AXexis ArMArE
+File Number: 000518
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: ArrAMia, AXexis ArMArE
+File Number: 000518
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 2:51
+Formatted Hours Worked: 2.85
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 3:22
+Formatted Hours Worked: 3.3666666666666667
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 2:21
+Formatted Hours Worked: 2.35
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 3:35
+Formatted Hours Worked: 3.5833333333333335
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 3:17
+Formatted Hours Worked: 3.283333333333333
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 3:18
+Formatted Hours Worked: 3.3
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 4:49
+Formatted Hours Worked: 4.816666666666666
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 2:46
+Formatted Hours Worked: 2.7666666666666666
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 4:28
+Formatted Hours Worked: 4.466666666666667
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 4:54
+Formatted Hours Worked: 4.9
+
+Employee Name: DiXXard, JEwaWW Cedric
+File Number: 000519
+Hours Worked: 5:34
+Formatted Hours Worked: 5.566666666666666
+
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+File Number: 000521
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+File Number: 000521
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+File Number: 000521
+Hours Worked: 4:21
+Formatted Hours Worked: 4.35
+
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+File Number: 000521
+Hours Worked: 3:56
+Formatted Hours Worked: 3.9333333333333336
+
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+File Number: 000521
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+File Number: 000521
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+File Number: 000521
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+File Number: 000521
+Hours Worked: 4:42
+Formatted Hours Worked: 4.7
+
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+File Number: 000521
+Hours Worked: 4:46
+Formatted Hours Worked: 4.766666666666667
+
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+File Number: 000521
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 6:44
+Formatted Hours Worked: 6.733333333333333
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 4:02
+Formatted Hours Worked: 4.033333333333333
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 4:11
+Formatted Hours Worked: 4.183333333333334
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 4:07
+Formatted Hours Worked: 4.116666666666666
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 4:06
+Formatted Hours Worked: 4.1
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 1:51
+Formatted Hours Worked: 1.85
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 1:16
+Formatted Hours Worked: 1.2666666666666666
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 4:58
+Formatted Hours Worked: 4.966666666666667
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 3:23
+Formatted Hours Worked: 3.3833333333333333
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 9:58
+Formatted Hours Worked: 9.966666666666667
+
+Employee Name: XEpez WAWez, XAis
+File Number: 000522
+Hours Worked: 1:04
+Formatted Hours Worked: 1.0666666666666667
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 2:41
+Formatted Hours Worked: 2.6833333333333336
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 4:23
+Formatted Hours Worked: 4.383333333333334
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 6:11
+Formatted Hours Worked: 6.183333333333334
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 5:06
+Formatted Hours Worked: 5.1
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 3:52
+Formatted Hours Worked: 3.8666666666666667
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 3:33
+Formatted Hours Worked: 3.55
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 3:07
+Formatted Hours Worked: 3.1166666666666667
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 3:32
+Formatted Hours Worked: 3.533333333333333
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 2:10
+Formatted Hours Worked: 2.1666666666666665
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 4:39
+Formatted Hours Worked: 4.65
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 5:36
+Formatted Hours Worked: 5.6
+
+Employee Name: CeciWa, SiXvesMre Jr
+File Number: 000528
+Hours Worked: 4:44
+Formatted Hours Worked: 4.733333333333333
+
+Employee Name: CeciWa, SiXvesMre Jr
+File Number: 000528
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: CeciWa, SiXvesMre Jr
+File Number: 000528
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: CeciWa, SiXvesMre Jr
+File Number: 000528
+Hours Worked: 2:45
+Formatted Hours Worked: 2.75
+
+Employee Name: CeciWa, SiXvesMre Jr
+File Number: 000528
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: CeciWa, SiXvesMre Jr
+File Number: 000528
+Hours Worked: 1:20
+Formatted Hours Worked: 1.3333333333333333
+
+Employee Name: CeciWa, SiXvesMre Jr
+File Number: 000528
+Hours Worked: 8:00
+Formatted Hours Worked: 8
+
+Employee Name: CeciWa, SiXvesMre Jr
+File Number: 000528
+Hours Worked: 8:00
+Formatted Hours Worked: 8
+
+Employee Name: CeciWa, SiXvesMre Jr
+File Number: 000528
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: CeciWa, SiXvesMre Jr
+File Number: 000528
+Hours Worked: 1:30
+Formatted Hours Worked: 1.5
+
+Employee Name: CeciWa, SiXvesMre Jr
+File Number: 000528
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: FaGiaW CiraWda, JEse
+File Number: 000530
+Hours Worked: 1:50
+Formatted Hours Worked: 1.8333333333333335
+
+Employee Name: FaGiaW CiraWda, JEse
+File Number: 000530
+Hours Worked: 4:10
+Formatted Hours Worked: 4.166666666666667
+
+Employee Name: FaGiaW CiraWda, JEse
+File Number: 000530
+Hours Worked: 4:56
+Formatted Hours Worked: 4.933333333333334
+
+Employee Name: FaGiaW CiraWda, JEse
+File Number: 000530
+Hours Worked: 7:00
+Formatted Hours Worked: 7
+
+Employee Name: FaGiaW CiraWda, JEse
+File Number: 000530
+Hours Worked: 4:25
+Formatted Hours Worked: 4.416666666666667
+
+Employee Name: FaGiaW CiraWda, JEse
+File Number: 000530
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: FaGiaW CiraWda, JEse
+File Number: 000530
+Hours Worked: 3:59
+Formatted Hours Worked: 3.9833333333333334
+
+Employee Name: FaGiaW CiraWda, JEse
+File Number: 000530
+Hours Worked: 4:08
+Formatted Hours Worked: 4.133333333333334
+
+Employee Name: FaGiaW CiraWda, JEse
+File Number: 000530
+Hours Worked: 7:29
+Formatted Hours Worked: 7.483333333333333
+
+Employee Name: HaCiXMEW, DeaWMe DevEW
+File Number: 000536
+Hours Worked: 4:47
+Formatted Hours Worked: 4.783333333333333
+
+Employee Name: HaCiXMEW, DeaWMe DevEW
+File Number: 000536
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: HaCiXMEW, DeaWMe DevEW
+File Number: 000536
+Hours Worked: 4:42
+Formatted Hours Worked: 4.7
+
+Employee Name: HaCiXMEW, DeaWMe DevEW
+File Number: 000536
+Hours Worked: 2:44
+Formatted Hours Worked: 2.7333333333333334
+
+Employee Name: HaCiXMEW, DeaWMe DevEW
+File Number: 000536
+Hours Worked: 4:55
+Formatted Hours Worked: 4.916666666666667
+
+Employee Name: HaCiXMEW, DeaWMe DevEW
+File Number: 000536
+Hours Worked: 5:08
+Formatted Hours Worked: 5.133333333333334
+
+Employee Name: HaCiXMEW, DeaWMe DevEW
+File Number: 000536
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: HaCiXMEW, DeaWMe DevEW
+File Number: 000536
+Hours Worked: 4:28
+Formatted Hours Worked: 4.466666666666667
+
+Employee Name: HaCiXMEW, DeaWMe DevEW
+File Number: 000536
+Hours Worked: 3:04
+Formatted Hours Worked: 3.066666666666667
+
+Employee Name: HaCiXMEW, DeaWMe DevEW
+File Number: 000536
+Hours Worked: 4:46
+Formatted Hours Worked: 4.766666666666667
+
+Employee Name: HAWMer, ViWceWM De PaAX
+File Number: 000538
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: HAWMer, ViWceWM De PaAX
+File Number: 000538
+Hours Worked: 3:52
+Formatted Hours Worked: 3.8666666666666667
+
+Employee Name: HAWMer, ViWceWM De PaAX
+File Number: 000538
+Hours Worked: 2:03
+Formatted Hours Worked: 2.05
+
+Employee Name: HAWMer, ViWceWM De PaAX
+File Number: 000538
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: HAWMer, ViWceWM De PaAX
+File Number: 000538
+Hours Worked: 3:33
+Formatted Hours Worked: 3.55
+
+Employee Name: HAWMer, ViWceWM De PaAX
+File Number: 000538
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: HAWMer, ViWceWM De PaAX
+File Number: 000538
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 1:28
+Formatted Hours Worked: 1.4666666666666668
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 2:15
+Formatted Hours Worked: 2.25
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 3:41
+Formatted Hours Worked: 3.6833333333333336
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 3:13
+Formatted Hours Worked: 3.216666666666667
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 3:52
+Formatted Hours Worked: 3.8666666666666667
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 6:06
+Formatted Hours Worked: 6.1
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 4:10
+Formatted Hours Worked: 4.166666666666667
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 3:17
+Formatted Hours Worked: 3.283333333333333
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 4:38
+Formatted Hours Worked: 4.633333333333333
+
+Employee Name: AXcEcer, ECar JesAs
+File Number: 000541
+Hours Worked: 5:39
+Formatted Hours Worked: 5.65
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 2:31
+Formatted Hours Worked: 2.5166666666666666
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 5:34
+Formatted Hours Worked: 5.566666666666666
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 2:05
+Formatted Hours Worked: 2.0833333333333335
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 5:16
+Formatted Hours Worked: 5.266666666666667
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 3:33
+Formatted Hours Worked: 3.55
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 1:59
+Formatted Hours Worked: 1.9833333333333334
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 7:11
+Formatted Hours Worked: 7.183333333333334
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 2:49
+Formatted Hours Worked: 2.8166666666666664
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 3:10
+Formatted Hours Worked: 3.1666666666666665
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 2:25
+Formatted Hours Worked: 2.4166666666666665
+
+Employee Name: IWGEAa, JeffersEW
+File Number: 000546
+Hours Worked: 1:47
+Formatted Hours Worked: 1.7833333333333332
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 8:00
+Formatted Hours Worked: 8
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 4:21
+Formatted Hours Worked: 4.35
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 2:06
+Formatted Hours Worked: 2.1
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 1:07
+Formatted Hours Worked: 1.1166666666666667
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 1:16
+Formatted Hours Worked: 1.2666666666666666
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 4:54
+Formatted Hours Worked: 4.9
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 1:32
+Formatted Hours Worked: 1.5333333333333332
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW
+File Number: 000548
+Hours Worked: 6:59
+Formatted Hours Worked: 6.983333333333333
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 5:21
+Formatted Hours Worked: 5.35
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 3:38
+Formatted Hours Worked: 3.6333333333333333
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 4:54
+Formatted Hours Worked: 4.9
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 3:17
+Formatted Hours Worked: 3.283333333333333
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 4:38
+Formatted Hours Worked: 4.633333333333333
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 5:27
+Formatted Hours Worked: 5.45
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 4:09
+Formatted Hours Worked: 4.15
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 3:42
+Formatted Hours Worked: 3.7
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 4:42
+Formatted Hours Worked: 4.7
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+File Number: 000549
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:23
+Formatted Hours Worked: 4.383333333333334
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 3:54
+Formatted Hours Worked: 3.9
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 5:01
+Formatted Hours Worked: 5.016666666666667
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:57
+Formatted Hours Worked: 4.95
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:27
+Formatted Hours Worked: 4.45
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:25
+Formatted Hours Worked: 4.416666666666667
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 5:16
+Formatted Hours Worked: 5.266666666666667
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:56
+Formatted Hours Worked: 4.933333333333334
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:47
+Formatted Hours Worked: 4.783333333333333
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:36
+Formatted Hours Worked: 4.6
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 5:16
+Formatted Hours Worked: 5.266666666666667
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 5:17
+Formatted Hours Worked: 5.283333333333333
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+File Number: 000550
+Hours Worked: 3:32
+Formatted Hours Worked: 3.533333333333333
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 1:30
+Formatted Hours Worked: 1.5
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 2:56
+Formatted Hours Worked: 2.9333333333333336
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 3:56
+Formatted Hours Worked: 3.9333333333333336
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 3:41
+Formatted Hours Worked: 3.6833333333333336
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 2:32
+Formatted Hours Worked: 2.533333333333333
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 3:40
+Formatted Hours Worked: 3.6666666666666665
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 3:06
+Formatted Hours Worked: 3.1
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 2:58
+Formatted Hours Worked: 2.966666666666667
+
+Employee Name: Diaz GaXvez, RicardE JEsAe
+File Number: 000551
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 3:01
+Formatted Hours Worked: 3.0166666666666666
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 2:03
+Formatted Hours Worked: 2.05
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 3:53
+Formatted Hours Worked: 3.8833333333333333
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 3:36
+Formatted Hours Worked: 3.6
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 5:00
+Formatted Hours Worked: 5
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 3:00
+Formatted Hours Worked: 3
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 1:48
+Formatted Hours Worked: 1.8
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 2:31
+Formatted Hours Worked: 2.5166666666666666
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 4:46
+Formatted Hours Worked: 4.766666666666667
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 2:22
+Formatted Hours Worked: 2.3666666666666667
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: EsMrada, JEse FeXix
+File Number: 000552
+Hours Worked: 2:50
+Formatted Hours Worked: 2.8333333333333335
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 3:21
+Formatted Hours Worked: 3.35
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 5:18
+Formatted Hours Worked: 5.3
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:17
+Formatted Hours Worked: 4.283333333333333
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:47
+Formatted Hours Worked: 4.783333333333333
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:42
+Formatted Hours Worked: 4.7
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:23
+Formatted Hours Worked: 4.383333333333334
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:43
+Formatted Hours Worked: 4.716666666666667
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:06
+Formatted Hours Worked: 4.1
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 3:23
+Formatted Hours Worked: 3.3833333333333333
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 3:58
+Formatted Hours Worked: 3.966666666666667
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: SMrickXaWd, REdWey EAgeWe
+File Number: 000555
+Hours Worked: 3:44
+Formatted Hours Worked: 3.7333333333333334
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 2:36
+Formatted Hours Worked: 2.6
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 2:34
+Formatted Hours Worked: 2.5666666666666664
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 3:52
+Formatted Hours Worked: 3.8666666666666667
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 2:50
+Formatted Hours Worked: 2.8333333333333335
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 3:42
+Formatted Hours Worked: 3.7
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 1:25
+Formatted Hours Worked: 1.4166666666666667
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 2:26
+Formatted Hours Worked: 2.4333333333333336
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 3:06
+Formatted Hours Worked: 3.1
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 4:49
+Formatted Hours Worked: 4.816666666666666
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 4:41
+Formatted Hours Worked: 4.683333333333334
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 3:19
+Formatted Hours Worked: 3.3166666666666664
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+File Number: 000556
+Hours Worked: 2:02
+Formatted Hours Worked: 2.033333333333333
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 3:29
+Formatted Hours Worked: 3.4833333333333334
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 3:53
+Formatted Hours Worked: 3.8833333333333333
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 3:46
+Formatted Hours Worked: 3.7666666666666666
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 3:03
+Formatted Hours Worked: 3.05
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 3:42
+Formatted Hours Worked: 3.7
+
+Employee Name: JerEWiCE CEraXes, CarXEs D
+File Number: 000557
+Hours Worked: 2:46
+Formatted Hours Worked: 2.7666666666666666
+
+Employee Name: CharXes, EGadiah SEraccE Jr
+File Number: 000566
+Hours Worked: 2:11
+Formatted Hours Worked: 2.183333333333333
+
+Employee Name: CharXes, EGadiah SEraccE Jr
+File Number: 000566
+Hours Worked: 6:48
+Formatted Hours Worked: 6.8
+
+Employee Name: CharXes, EGadiah SEraccE Jr
+File Number: 000566
+Hours Worked: 6:28
+Formatted Hours Worked: 6.466666666666667
+
+Employee Name: CharXes, EGadiah SEraccE Jr
+File Number: 000566
+Hours Worked: 2:02
+Formatted Hours Worked: 2.033333333333333
+
+Employee Name: CharXes, EGadiah SEraccE Jr
+File Number: 000566
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 3:38
+Formatted Hours Worked: 3.6333333333333333
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 3:14
+Formatted Hours Worked: 3.2333333333333334
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 1:07
+Formatted Hours Worked: 1.1166666666666667
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 2:30
+Formatted Hours Worked: 2.5
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 1:07
+Formatted Hours Worked: 1.1166666666666667
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 3:23
+Formatted Hours Worked: 3.3833333333333333
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 2:49
+Formatted Hours Worked: 2.8166666666666664
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 4:23
+Formatted Hours Worked: 4.383333333333334
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 3:08
+Formatted Hours Worked: 3.1333333333333333
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+File Number: 000569
+Hours Worked: 3:12
+Formatted Hours Worked: 3.2
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:39
+Formatted Hours Worked: 4.65
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 2:00
+Formatted Hours Worked: 2
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 5:51
+Formatted Hours Worked: 5.85
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:10
+Formatted Hours Worked: 4.166666666666667
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 2:01
+Formatted Hours Worked: 2.0166666666666666
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:24
+Formatted Hours Worked: 4.4
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 1:55
+Formatted Hours Worked: 1.9166666666666665
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:11
+Formatted Hours Worked: 4.183333333333334
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:33
+Formatted Hours Worked: 4.55
+
+Employee Name: CAevas ZavaXa, JErge XAis
+File Number: 000571
+Hours Worked: 4:09
+Formatted Hours Worked: 4.15
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 3:48
+Formatted Hours Worked: 3.8
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 5:09
+Formatted Hours Worked: 5.15
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 3:51
+Formatted Hours Worked: 3.85
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:42
+Formatted Hours Worked: 4.7
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 3:45
+Formatted Hours Worked: 3.75
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:24
+Formatted Hours Worked: 4.4
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 3:23
+Formatted Hours Worked: 3.3833333333333333
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 5:03
+Formatted Hours Worked: 5.05
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:27
+Formatted Hours Worked: 4.45
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:51
+Formatted Hours Worked: 4.85
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME
+File Number: 000572
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+File Number: 000573
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+File Number: 000573
+Hours Worked: 3:59
+Formatted Hours Worked: 3.9833333333333334
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+File Number: 000573
+Hours Worked: 3:59
+Formatted Hours Worked: 3.9833333333333334
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+File Number: 000573
+Hours Worked: 3:32
+Formatted Hours Worked: 3.533333333333333
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+File Number: 000573
+Hours Worked: 3:47
+Formatted Hours Worked: 3.783333333333333
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+File Number: 000573
+Hours Worked: 3:24
+Formatted Hours Worked: 3.4
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+File Number: 000573
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+File Number: 000573
+Hours Worked: 2:56
+Formatted Hours Worked: 2.9333333333333336
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+File Number: 000573
+Hours Worked: 4:32
+Formatted Hours Worked: 4.533333333333333
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+File Number: 000573
+Hours Worked: 5:01
+Formatted Hours Worked: 5.016666666666667
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+File Number: 000573
+Hours Worked: 8:57
+Formatted Hours Worked: 8.95
+
+Employee Name: CiGriaW DeXgadE, EXeWa S
+File Number: 000574
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: CiGriaW DeXgadE, EXeWa S
+File Number: 000574
+Hours Worked: 3:27
+Formatted Hours Worked: 3.45
+
+Employee Name: CiGriaW DeXgadE, EXeWa S
+File Number: 000574
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: CiGriaW DeXgadE, EXeWa S
+File Number: 000574
+Hours Worked: 3:38
+Formatted Hours Worked: 3.6333333333333333
+
+Employee Name: CiGriaW DeXgadE, EXeWa S
+File Number: 000574
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: CiGriaW DeXgadE, EXeWa S
+File Number: 000574
+Hours Worked: 4:55
+Formatted Hours Worked: 4.916666666666667
+
+Employee Name: CiGriaW DeXgadE, EXeWa S
+File Number: 000574
+Hours Worked: 4:34
+Formatted Hours Worked: 4.566666666666666
+
+Employee Name: CarMer, XyWWeXX DejAaW Jr
+File Number: 000576
+Hours Worked: 4:14
+Formatted Hours Worked: 4.233333333333333
+
+Employee Name: CarMer, XyWWeXX DejAaW Jr
+File Number: 000576
+Hours Worked: 5:13
+Formatted Hours Worked: 5.216666666666667
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 4:12
+Formatted Hours Worked: 4.2
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 4:52
+Formatted Hours Worked: 4.866666666666667
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 1:08
+Formatted Hours Worked: 1.1333333333333333
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 4:23
+Formatted Hours Worked: 4.383333333333334
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 5:57
+Formatted Hours Worked: 5.95
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 4:22
+Formatted Hours Worked: 4.366666666666666
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 3:33
+Formatted Hours Worked: 3.55
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 4:42
+Formatted Hours Worked: 4.7
+
+Employee Name: SaWchez, ArWAXfE
+File Number: 000577
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: VasqAez, JEhW SeGasMiaW
+File Number: 000578
+Hours Worked: 3:37
+Formatted Hours Worked: 3.6166666666666667
+
+Employee Name: VasqAez, JEhW SeGasMiaW
+File Number: 000578
+Hours Worked: 3:13
+Formatted Hours Worked: 3.216666666666667
+
+Employee Name: VasqAez, JEhW SeGasMiaW
+File Number: 000578
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: VasqAez, JEhW SeGasMiaW
+File Number: 000578
+Hours Worked: 1:54
+Formatted Hours Worked: 1.9
+
+Employee Name: VasqAez, JEhW SeGasMiaW
+File Number: 000578
+Hours Worked: 3:32
+Formatted Hours Worked: 3.533333333333333
+
+Employee Name: VasqAez, JEhW SeGasMiaW
+File Number: 000578
+Hours Worked: 2:40
+Formatted Hours Worked: 2.6666666666666665
+
+Employee Name: VasqAez, JEhW SeGasMiaW
+File Number: 000578
+Hours Worked: 3:27
+Formatted Hours Worked: 3.45
+
+Employee Name: VasqAez, JEhW SeGasMiaW
+File Number: 000578
+Hours Worked: 1:07
+Formatted Hours Worked: 1.1166666666666667
+
+Employee Name: VasqAez, JEhW SeGasMiaW
+File Number: 000578
+Hours Worked: 3:13
+Formatted Hours Worked: 3.216666666666667
+
+Employee Name: VasqAez, JEhW SeGasMiaW
+File Number: 000578
+Hours Worked: 2:25
+Formatted Hours Worked: 2.4166666666666665
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 4:17
+Formatted Hours Worked: 4.283333333333333
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 5:19
+Formatted Hours Worked: 5.316666666666666
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 4:18
+Formatted Hours Worked: 4.3
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 3:35
+Formatted Hours Worked: 3.5833333333333335
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 6:05
+Formatted Hours Worked: 6.083333333333333
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 4:47
+Formatted Hours Worked: 4.783333333333333
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 2:45
+Formatted Hours Worked: 2.75
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 1:49
+Formatted Hours Worked: 1.8166666666666667
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 6:02
+Formatted Hours Worked: 6.033333333333333
+
+Employee Name: GAMierrez, PedrE CigAeX
+File Number: 000579
+Hours Worked: 3:30
+Formatted Hours Worked: 3.5
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 2:50
+Formatted Hours Worked: 2.8333333333333335
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 1:04
+Formatted Hours Worked: 1.0666666666666667
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 4:24
+Formatted Hours Worked: 4.4
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 4:02
+Formatted Hours Worked: 4.033333333333333
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 1:47
+Formatted Hours Worked: 1.7833333333333332
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 4:49
+Formatted Hours Worked: 4.816666666666666
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 2:34
+Formatted Hours Worked: 2.5666666666666664
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 3:35
+Formatted Hours Worked: 3.5833333333333335
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 3:20
+Formatted Hours Worked: 3.3333333333333335
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 3:34
+Formatted Hours Worked: 3.5666666666666664
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+File Number: 000581
+Hours Worked: 6:58
+Formatted Hours Worked: 6.966666666666667
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 2:10
+Formatted Hours Worked: 2.1666666666666665
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 3:44
+Formatted Hours Worked: 3.7333333333333334
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 3:46
+Formatted Hours Worked: 3.7666666666666666
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 4:36
+Formatted Hours Worked: 4.6
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 3:35
+Formatted Hours Worked: 3.5833333333333335
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 2:16
+Formatted Hours Worked: 2.2666666666666666
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 2:27
+Formatted Hours Worked: 2.45
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 2:43
+Formatted Hours Worked: 2.716666666666667
+
+Employee Name: De XEs SaWMEs, JEseph XAis
+File Number: 000582
+Hours Worked: 7:07
+Formatted Hours Worked: 7.116666666666666
+
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Hours Worked: 6:17
+Formatted Hours Worked: 6.283333333333333
+
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Hours Worked: 4:40
+Formatted Hours Worked: 4.666666666666667
+
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Hours Worked: 5:08
+Formatted Hours Worked: 5.133333333333334
+
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Hours Worked: 5:05
+Formatted Hours Worked: 5.083333333333333
+
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Hours Worked: 1:03
+Formatted Hours Worked: 1.05
+
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Hours Worked: 5:33
+Formatted Hours Worked: 5.55
+
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 5:27
+Formatted Hours Worked: 5.45
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:10
+Formatted Hours Worked: 4.166666666666667
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 2:11
+Formatted Hours Worked: 2.183333333333333
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 5:35
+Formatted Hours Worked: 5.583333333333333
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:24
+Formatted Hours Worked: 4.4
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:44
+Formatted Hours Worked: 4.733333333333333
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:47
+Formatted Hours Worked: 4.783333333333333
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:13
+Formatted Hours Worked: 4.216666666666667
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 5:19
+Formatted Hours Worked: 5.316666666666666
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 4:54
+Formatted Hours Worked: 4.9
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Hours Worked: 5:01
+Formatted Hours Worked: 5.016666666666667
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 5:28
+Formatted Hours Worked: 5.466666666666667
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 2:27
+Formatted Hours Worked: 2.45
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 4:19
+Formatted Hours Worked: 4.316666666666666
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 3:40
+Formatted Hours Worked: 3.6666666666666665
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 4:11
+Formatted Hours Worked: 4.183333333333334
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 4:45
+Formatted Hours Worked: 4.75
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 4:25
+Formatted Hours Worked: 4.416666666666667
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 3:04
+Formatted Hours Worked: 3.066666666666667
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 3:46
+Formatted Hours Worked: 3.7666666666666666
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 2:31
+Formatted Hours Worked: 2.5166666666666666
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Hours Worked: 4:03
+Formatted Hours Worked: 4.05
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:00
+Formatted Hours Worked: 4
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:11
+Formatted Hours Worked: 4.183333333333334
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 3:50
+Formatted Hours Worked: 3.8333333333333335
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:06
+Formatted Hours Worked: 4.1
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:34
+Formatted Hours Worked: 4.566666666666666
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:47
+Formatted Hours Worked: 4.783333333333333
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 3:25
+Formatted Hours Worked: 3.4166666666666665
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:27
+Formatted Hours Worked: 4.45
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:45
+Formatted Hours Worked: 4.75
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:30
+Formatted Hours Worked: 4.5
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 5:19
+Formatted Hours Worked: 5.316666666666666
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:50
+Formatted Hours Worked: 4.833333333333333
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:36
+Formatted Hours Worked: 4.6
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Hours Worked: 4:15
+Formatted Hours Worked: 4.25
+
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Hours Worked: 4:20
+Formatted Hours Worked: 4.333333333333333
+
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Hours Worked: 4:37
+Formatted Hours Worked: 4.616666666666667
+
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Hours Worked: 4:04
+Formatted Hours Worked: 4.066666666666666
+
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Hours Worked: 5:10
+Formatted Hours Worked: 5.166666666666667
+
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Hours Worked: 3:53
+Formatted Hours Worked: 3.8833333333333333
+
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Hours Worked: 4:58
+Formatted Hours Worked: 4.966666666666667
+
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Hours Worked: 4:59
+Formatted Hours Worked: 4.983333333333333
+
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Hours Worked: 3:49
+Formatted Hours Worked: 3.8166666666666664
+
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Hours Worked: 3:05
+Formatted Hours Worked: 3.0833333333333335
+
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Hours Worked: 3:55
+Formatted Hours Worked: 3.9166666666666665
+
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Hours Worked: 3:15
+Formatted Hours Worked: 3.25
+
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Hours Worked: 6:00
+Formatted Hours Worked: 6
+
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Hours Worked: 3:29
+Formatted Hours Worked: 3.4833333333333334
+
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Hours Worked: 4:05
+Formatted Hours Worked: 4.083333333333333
+
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Hours Worked: 4:01
+Formatted Hours Worked: 4.016666666666667
+
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Hours Worked: 4:35
+Formatted Hours Worked: 4.583333333333333
+
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Hours Worked: 4:29
+Formatted Hours Worked: 4.483333333333333
+
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Hours Worked: 4:34
+Formatted Hours Worked: 4.566666666666666
+
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Hours Worked: 4:16
+Formatted Hours Worked: 4.266666666666667
+
+
+Task 2: Employees who have worked for more than 14 hours in a single shift:
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+File Number: 000523
+Hours Worked: 16:30
+Formatted Hours Worked: NaN:NaN
+
+
+Task 3: Employee Name: Sparks, KeWWeMh
+Consecutive Dates: 9/12/2023, 9/13/2023, 9/14/2023, 9/18/2023, 9/19/2023, 9/20/2023, 9/21/2023, 9/22/2023, 9/23/2023, 9/24/2023
